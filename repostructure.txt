@@ -1,0 +1,29 @@
+ structure for this repo
+
+📂 scalable-apps/
+│── 📜 README.md
+│── 📂 frontend/
+│   ├── 📜 frontend_scalability.md
+│   ├── 📂 patterns/
+│   │   ├── 📜 component_structure.md
+│   │   ├── 📜 state_management.md
+│   │   ├── 📜 performance_optimization.md
+│   ├── 📂 frameworks/
+│   │   ├── 📜 nextjs_scalability.md
+│   │   ├── 📜 react_best_practices.md
+│── 📂 backend/
+│   ├── 📜 backend_scalability.md
+│   ├── 📂 architecture/
+│   │   ├── 📜 microservices_vs_monolith.md
+│   │   ├── 📜 event_driven_architecture.md
+│   ├── 📂 databases/
+│   │   ├── 📜 sharding_vs_replication.md
+│   │   ├── 📜 caching_strategies.md
+│── 📂 devops/
+│   ├── 📜 scaling_infrastructure.md
+│   ├── 📜 kubernetes_autoscaling.md
+│── 📂 case_studies/
+│   ├── 📜 netflix_scalability.md
+│   ├── 📜 twitter_architecture.md
+│── 📜 CONTRIBUTING.md
+│── 📜 LICENSE
