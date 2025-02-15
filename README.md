@@ -11,7 +11,15 @@ backend, databases, and infrastructure for modern applications.
 - [Project Structure](/repostructure.txt)
 - [Frontend](#frontend)
 - [Backend](#backend)
+
+- [Infrastructure](#infrastructure)
+
 - [DevOps](#devops)
+
+- [API Scalability](#api-scalability)
+- [Security Considerations](#security-considerations)
+- [Monitoring & Observability](#monitoring--observability)
+
 - [Case Studies](#case-studies)
 - [License](#license)
 
@@ -43,12 +51,35 @@ In the backend section, we cover how to scale backend services, different archit
 - **Sharding vs. Replication**
 - **Caching Strategies**
 
+## Infrastructure
+
+A deep dive into infrastructure scaling, including cloud services, load balancing, and networking optimizations.
+
+- **[Cloud Scalability](infrastructure/cloud_scalability.md)**
+- **[Load Balancing](infrastructure/load_balancing.md)**
+- **[Containerization](infrastructure/containerization.md)**
+- **[Networking for Scalability](infrastructure/networking.md)**
+
+
 ## DevOps
 
 The DevOps section includes strategies for scaling infrastructure and managing Kubernetes clusters for autoscaling.
 
 - **Scaling Infrastructure**
 - **Kubernetes Autoscaling**
+
+## API Scalability
+
+Covers API rate limiting, caching, and handling high-traffic endpoints efficiently.
+
+## Security Considerations
+
+Ensuring scalability while maintaining security through authentication, authorization, and DDoS protection.
+
+## Monitoring & Observability
+
+How to track and measure performance with logs, metrics, and tracing.
+
 
 ## Case Studies
 

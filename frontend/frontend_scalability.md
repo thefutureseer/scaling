@@ -1,6 +1,11 @@
 ### **Scaling Frontend Applications: Key Concepts & Why They Matter**  
 
-Scaling the frontend is essential for delivering fast, responsive, and seamless experiences as traffic, user interactions, and data loads increase. Below are the key **frontend scaling concepts** and **why they matter**.
+Scaling the frontend is essential for 
+delivering fast, responsive, and seamless 
+experiences as traffic, user interactions, 
+and data loads increase. Below are the key 
+**frontend scaling concepts** and **why 
+they matter**.
 
 ---
 
