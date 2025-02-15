@@ -21,6 +21,8 @@ backend, databases, and infrastructure for modern applications.
 - [Monitoring & Observability](#monitoring--observability)
 
 - [Case Studies](#case-studies)
+- [More to come](#more-to-come)
+
 - [License](#license)
 
 ## Introduction
@@ -89,7 +91,12 @@ We also have case studies of real-world applications and how they scale. Current
 - **Netflix**
 
 
-### more to come
+### More to come:
+- Scaling Machine Learning Models
+- AI-Assisted Code Scaling Strategies
+- Blockchain scalability
+- Real-world Case Studies (Uber, Google, AWS)
+
 
 ## License
 

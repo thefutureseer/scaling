@@ -19,11 +19,15 @@
 │   ├── 📂 databases/
 │   │   ├── 📜 sharding_vs_replication.md
 │   │   ├── 📜 caching_strategies.md
+│── 📂 infrastructure/
+│   ├── 📜 cloud_scalability.md
+│   ├── 📜 load_balancing.md
 │── 📂 devops/
 │   ├── 📜 scaling_infrastructure.md
 │   ├── 📜 kubernetes_autoscaling.md
 │── 📂 case_studies/
 │   ├── 📜 netflix_scalability.md
 │   ├── 📜 twitter_architecture.md
-│── 📜 CONTRIBUTING.md
+│── 📂 ai/
+│   ├── 📜 future_ai_assistant.md
 │── 📜 LICENSE
