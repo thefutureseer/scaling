@@ -2,12 +2,23 @@
 
 📂 scalable-apps/
 │── 📜 README.md
-│── 📂 frontend/
-│   ├── 📜 frontend_scalability.md
-│   ├── 📂 patterns/
-│   │   ├── 📜 component_structure.md
-│   │   ├── 📜 state_management.md
-│   │   ├── 📜 performance_optimization.md
+│── 📂 frontend/                     # Frontend-related documentation and code
+│   ├── 📜 frontend_scalability.md    # Guide on frontend scalability best practices
+│   ├── 📂 patterns/                  # Best practices and architectural patterns
+│   │   ├── 📂 components/            # Component-related best practices
+│   │   │   ├── 📜 component_structure.md  # Guidelines on structuring components
+│   │   │   ├── 📂 common/            # Shared UI components (buttons, modals, etc.)
+│   │   │   ├── 📂 layout/            # Layout components (header, footer, sidebar)
+│   │   │   ├── 📂 pages/             # Page-specific components (individual screens)
+│   │   │── 📂 features/              # Feature-based structure (optional, scalable)
+│   │   │   ├── 📂 auth/              # Authentication-related components & logic
+│   │   │   │   ├── 📂 components/    # UI components for authentication (login, signup)
+│   │   │   │   ├── 📂 hooks/         # Custom React hooks for authentication
+│   │   │   │   ├── 📂 context(or Providers)/       # Context API for authentication state management
+│   │   │   ├── 📂 dashboard/         # Dashboard-related components & logic
+│   │   │   ├── 📂 utils/             # Helper functions & utilities for components
+│   │   ├── 📜 state_management.md    # Best practices for managing global state
+│   │   ├── 📜 performance_optimization.md  # Performance optimizations for frontend
 │   ├── 📂 frameworks/
 │   │   ├── 📜 nextjs_scalability.md
 │   │   ├── 📜 react_best_practices.md
