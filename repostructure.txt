@@ -33,6 +33,8 @@
 │── 📂 infrastructure/
 │   ├── 📜 cloud_scalability.md
 │   ├── 📜 load_balancing.md
+│   ├── 📜 containerization.md
+│   ├── 📜 networking.md
 │── 📂 devops/
 │   ├── 📜 scaling_infrastructure.md
 │   ├── 📜 kubernetes_autoscaling.md
